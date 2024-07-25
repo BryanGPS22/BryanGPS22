@@ -1,4 +1,4 @@
-👋 Hi, I’m @BryanGPS22
+👋 Hi, I’m @Bryan22
 
 <!---
 BryanGPS22/BryanGPS22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
