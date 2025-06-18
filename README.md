@@ -13,7 +13,7 @@ const info = {
       frameworks: ["React", "Next", "Astro", "Tailwind"]
     },
     backend: {
-      frameworks: ["Node", "Express", "Nest"]
+      frameworks: ["Node", "Nest"]
     },
     mobile: {
       frameworks: ["React Native", "Flutter"]
@@ -21,12 +21,12 @@ const info = {
     design: {
       tools: ["Figma", "Photoshop", "Canva"]
     },
-    database: ["GQL", "MySQL", "Supabase"],
+    database: ["Supabase", "GQL", "MySQL"],
     misc: ["Notion", "Obsidian", "Framer"]
   },
   focus: "Improving ⚡️",
 }
-From: 07 March 2023 - To: 21 February 2025
+From: 07 March 2023 - To: 18 June 2025
 
 Total Time: 1,089 hrs 56 mins
 
